@@ -1,0 +1,11 @@
+/**********Tooltip**************/
+.extraClass a{
+    font-size: 20px !important;
+    pointer-events: auto !important;
+
+}
+.extraClass a:hover {
+    visibility: visible !important;
+    opacity: 1 !important;
+}
+/**********END**************/
